@@ -30,7 +30,7 @@ At the end of the project, the arcade console will play, for example, Super Mari
 
 The first step is to download the Retropie software on the Retropie website.
 
-![](ReadMe Image/1.png)
+![](ReadMe%20Image/1.png)
 
 However, the soft only can’t play games. 
 You will have to downloads ROM of games because Retropie work like a virtual machine who emulates old consoles.
