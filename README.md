@@ -42,11 +42,11 @@ After that, you will have to install the Retropie image on a micro-sd card. The 
 
 Now you can put the sd card in te Raspberry again and you can begin the buttons configuration.
 
-![Retropie](ReadMe%20Image/4.png)
+![Retropie](ReadMe%20Image/4.jpg)
 
 If you save buttons, we recommand you to mark the names on a tape to remember them and to note treir name on the encoder.
 
-![Retropie on Raspberry](ReadMe%20Image/5.png)
+![Retropie on Raspberry](ReadMe%20Image/5.jpg)
 
 However, as soon as we have one encoder with 2 sets of buttons (because it is planned for two players) we will have to edit the equipement so that the encoder knows there are two sets of buttons.
 
@@ -59,4 +59,4 @@ Here are the 5 steps :
 
 Here is our wiring plan of the buttons on the encoder:
 
-![Configuration](ReadMe%20Image/6.png)
+![Configuration](ReadMe%20Image/6.PNG)
