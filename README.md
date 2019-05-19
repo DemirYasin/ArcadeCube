@@ -26,3 +26,26 @@ At the end of the project, the arcade console will play, for example, Super Mari
 - 1x Micro card SD (min 16Gb)
 - 1x Camera Pi v2 Raspberry
 
+# How to install Retropie on Raspberry
+
+The first step is to download the Retropie software on the Retropie website.
+However, the soft only can’t play games. 
+You will have to downloads ROM of games because Retropie work like a virtual machine who emulates old consoles.
+That’s why you will need to download the games on those consoles if you want to play them.
+
+After that, you will have to install the Retropie image on a micro-sd card. The first step is to format the card with “SD card Formatter”, then you can install the image with “Win32DiskImager”.
+
+Now you can put the sd card in te Raspberry again and you can begin the buttons configuration.
+
+If you save buttons, we recommand you to mark the names on a tape to remember them and to note treir name on the encoder.
+
+However, as soon as we have one encoder with 2 sets of buttons (because it is planned for two players) we will have to edit the equipement so that the encoder knows there are two sets of buttons.
+
+Here are the 5 steps :
+1. In the Retropie menu, execute file manager
+2. Go to :     → /pi       → /..      → /boot
+3. Edit the file « CMDLine.txt » with button « F4 » then press « 2 »
+4. At the end of the code, add this code: « USBhid.quirks=0x0810 :0xe001 :0x00000040 »
+5. Confirm by pressing those buttons: « CTRL+0 » → « enter » → « F10 »
+
+Here is our wiring plan of the buttons on the encoder:
