@@ -20,7 +20,7 @@ At the end of the project, the arcade console will play, for example, Super Mari
 1x PC monitor with loud speaker
 1x packet of connection cables (Male-Male)
 1x packet of resistor (370 Ohm; 450 Ohm)
-1x packet of LEDs 
+1x packet of LEDs
 3x Transistor Mosfet
 2x Breadboard
 1x Micro card SD (min 16Gb)
