@@ -10,6 +10,7 @@ At the end of the project, the arcade console will play, for example, Super Mari
 # The list of components required to build the ArcadeCube
 
 2x Raspberry Pi 3 Kit
+
 1x Arduino 
 1x Joysticks kit: Quimat - QR03-UK
 1x HDMI Cable or HDMI/VGA adapter 
