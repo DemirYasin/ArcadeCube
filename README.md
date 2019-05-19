@@ -83,7 +83,7 @@ https://www.raspberrypi.org/documentation/configuration/camera.md
 
 To use our file, u need to download it on our Github, and call it with python 3 on the Raspberry Prompt. Don’t forget to go in the folder where you downloaded it and also activate OpenCv 4. 
 
-If you did the tutorial to install OpenCv 4, the command to activate is:
+If you did the tutorial to install OpenCv 4, the command to activate it is:
 -	$ source ~/.profile
 -	$ workon cv
 
