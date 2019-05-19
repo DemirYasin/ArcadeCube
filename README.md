@@ -29,7 +29,7 @@ At the end of the project, the arcade console will play, for example, Super Mari
 # How to install Retropie on Raspberry
 
 The first step is to download the Retropie software on the Retropie website.
-![Install retropie](https://user-images.githubusercontent.com/48061476/57983941-33b8c000-7a57-11e9-86da-092680848a88.png)
+
 However, the soft only can’t play games. 
 You will have to downloads ROM of games because Retropie work like a virtual machine who emulates old consoles.
 That’s why you will need to download the games on those consoles if you want to play them.
