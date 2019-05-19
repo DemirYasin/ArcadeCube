@@ -30,13 +30,15 @@ At the end of the project, the arcade console will play, for example, Super Mari
 
 The first step is to download the Retropie software on the Retropie website.
 
-![](ReadMe%20Image/1.png)
+![Retropie Installation](ReadMe%20Image/1.png)
 
 However, the soft only can’t play games. 
 You will have to downloads ROM of games because Retropie work like a virtual machine who emulates old consoles.
 That’s why you will need to download the games on those consoles if you want to play them.
 
 After that, you will have to install the Retropie image on a micro-sd card. The first step is to format the card with “SD card Formatter”, then you can install the image with “Win32DiskImager”.
+
+![Format](ReadMe%20Image/2.png) ![Win32DiskImager](ReadMe%20Image/3.png)
 
 Now you can put the sd card in te Raspberry again and you can begin the buttons configuration.
 
