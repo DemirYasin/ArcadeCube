@@ -113,7 +113,7 @@ Here is the plan to weld it:
 
 ![Mosfets](ReadMe%20Image/8.png)
 
-# Connect every components with each other
+# Connect every components to each other
 
 - Raspberry Retropie: Joysticks on usb-encoder;
 - Raspberry 2: connect rights pins on the Arduino;
