@@ -63,31 +63,31 @@ Here is our wiring plan of the buttons on the encoder:
 
 # How to configure a Raspberry with fingers recognition 
 
-When u get the raspberry, u can take off the micro card SD. With your computer, you need to install on the new card SD (16Gb) Raspbian OS. On the following link, u can download the last version of Raspbian.
+When you get the raspberry, you can take off the micro card SD. With your computer, you need to install on the new card SD (16Gb) Raspbian OS. On the following link, you can download the last version of Raspbian.
 
 https://www.raspberrypi.org/downloads/raspbian/
 
-After downloading the zip file, u need to use Win32 Disk Imager to install the file on the Card. U can format the card, put the image file on the software and click on the “Write” button. This is the same process than installing Retropie on Raspberry. If you have some problems to install, you can look on the following tutorial.
+After downloading the zip file, you need to use Win32 Disk Imager to install the file on the Card. You can format the card, put the image file on the software and click on the “Write” button. This is the same process than installing Retropie on Raspberry. If you have some problems to install, you can look on the following tutorial.
 
 https://www.raspberrypi.org/documentation/installation/installing-images/README.md
 
-When the card is ready, u can put it on the Raspberry. Start it and wait the initialization. To use the python file, we need to install libraries. First, follow the instructions on the following link to install OpenCv 4.
+When the card is ready, you can put it on the Raspberry. Start it and wait the initialization. To use the python file, we need to install libraries. First, follow the instructions on the following link to install OpenCv 4.
 
 https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/
 
-Then u need to install Imutils, Numpy ans Scikit-learn. U can easily install these libraries with using in the Raspberry Prompt: “pip install NameOfLibrairie “. 
+Then you need to install Imutils, Numpy, Scikit-learn, RPi.GPIO (care to syntax) and time. You can easily install these libraries with using in the Raspberry Prompt: “pip install NameOfLibrairie “. 
 
-Before using the file, don’t forget to put the camera on the Raspberry. U can use the following link to set the camera:
+Before using the file, don’t forget to put the camera on the Raspberry. You can use the following link to set the camera:
 
 https://www.raspberrypi.org/documentation/configuration/camera.md
 
-To use our file, u need to download it on our Github, and call it with python 3 on the Raspberry Prompt. Don’t forget to go in the folder where you downloaded it and also activate OpenCv 4. 
+To use our file, you need to download it on our Github, and call it with python 3 on the Raspberry Prompt. Don’t forget to go in the folder where you downloaded it and also activate OpenCv 4. 
 
 If you did the tutorial to install OpenCv 4, the command to activate it is:
 -	$ source ~/.profile
 -	$ workon cv
 
-The programme will turn on after calling on the Prompt. If you get any error, u can close everything and continue the tutorial. 
+The programme will turn on after calling on the Prompt. If you get any error, you can close everything and continue the tutorial. 
 
 # How to configure your Arduino
 
