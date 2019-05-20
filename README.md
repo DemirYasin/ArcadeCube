@@ -95,4 +95,31 @@ The programme will turn on after calling on the Prompt. If you get any error, yo
 2. Transfer the code into an Arduino Uno like (it can also work with other type of Arduinos)
 3. If you have an Arduino Uno, don’t forget to place resistors (380 Ohm) in serial with the leds on the pins 7 to 13
 
+![Arduino](ReadMe%20Image/7.PNG)
+
+# How to build your console
+
+Here is the plan that we used to cut the wood:
+
+![Plan](ReadMe%20Image/9.png)
+
+You can easily find on the internet the plan to make holes on the board, here is a picture of our disposition:
+
+![Holes](ReadMe%20Image/10.png)
+
+# How to weld Mosfets
+
+Here is the plan to weld it:
+
+![Mosfets](ReadMe%20Image/8.png)
+
+# Connect every components with each other
+
+- Raspberry Retropie: Joysticks on usb-encoder;
+- Raspberry 2: connect rights pins on the Arduino;
+- Arduino: build the project with LEDs and connect rights pins on Mosfets as the preview picture.
+
+![Fin](ReadMe%20Image/11.jpg)
+
+Thank you for your interest! 
 
